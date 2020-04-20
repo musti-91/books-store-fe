@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Component should match default snapshot 1`] = `
+<div
+  className="card"
+  onClick={[Function]}
+>
+  <ForwardRef
+    className="cover"
+    style={
+      Object {
+        "height": AnimatedInterpolation {
+          "attach": [Function],
+          "calc": [Function],
+          "children": Array [],
+          "detach": [Function],
+          "payload": Array [
+            AnimatedValue {
+              "animatedStyles": Set {},
+              "children": Array [],
+              "done": true,
+              "lastPosition": 0,
+              "lastTime": undefined,
+              "lastVelocity": undefined,
+              "payload": undefined,
+              "setValue": [Function],
+              "startPosition": 0,
+              "startTime": 1546326000000,
+              "value": 1,
+            },
+          ],
+        },
+      }
+    }
+  >
+    <img
+      alt="The light of Darkness-cover"
+      src="https://bit.ly/2NL7gjn"
+    />
+  </ForwardRef>
+  <div
+    className="menu"
+    onClick={[Function]}
+  >
+    ...
+  </div>
+</div>
+`;

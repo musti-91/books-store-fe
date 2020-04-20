@@ -1,0 +1,14 @@
+{
+    "parser": "babel-eslint",
+    "extends": ["eslint:recommended", "plugin:react/recommended"],
+    "env": {
+        "jest": true,
+        "node": true
+    },
+    "plugins": ["react"],
+    "rules": {
+        "linebreak-style": ["error", "unix"],
+        "no-console": 1
+    },
+    "settings": {}
+}

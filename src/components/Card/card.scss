@@ -1,0 +1,79 @@
+.card {
+    width: 22.5em;
+    height: 40em;
+    border-radius: 0.3em;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.75);
+    position: relative;
+    transition: all 400ms;
+    .cover {
+        width: 100%;
+        height: 100%;
+        border-radius: 0.3em;
+        img {
+            width: 100%;
+            height: 100%;
+            border-radius: 0.3em;
+        }
+    }
+    .menu {
+        position: absolute;
+        width: 2em;
+        height: 3em;
+        text-align: center;
+        line-height: 2.5em;
+        font-size: 2.5em;
+        top: 50%;
+        right: 50%;
+        margin-right: -5.2em;
+        margin-top: -9em;
+        color: #fff;
+        background-color: transparent;
+        transition: all 300ms;
+        transform: rotate(90deg);
+    }
+
+    .detail {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 20%;
+        background-color: #fff;
+        border-radius: 0.3em;
+        opacity: 0.5;
+        transition: all 700ms;
+        margin-top: 0.2em;
+        .title,
+        .genre,
+        .info,
+        .pages,
+        .languages,
+        .awards {
+            font-family: "Quicksand-Regular";
+            font-size: 0.9em;
+            background-color: lightgray;
+            transition: all 400ms;
+            border-radius: 0.3em;
+            padding: 0.3em;
+            width: 45%;
+            margin-bottom: 0.3em;
+        }
+        .info {
+            background-color: red;
+            width: 45%;
+        }
+        .genre {
+            background-color: purple;
+            width: 45%;
+        }
+        .pages {
+            background-color: yellow;
+        }
+    }
+}
+.error {
+    color: red;
+}
