@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.273f4381.chunk.css",
-    "main.js": "/static/js/main.36935c7f.chunk.js",
-    "main.js.map": "/static/js/main.36935c7f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2daae05d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2daae05d.js.map",
-    "static/js/2.d79f6e39.chunk.js": "/static/js/2.d79f6e39.chunk.js",
-    "static/js/2.d79f6e39.chunk.js.map": "/static/js/2.d79f6e39.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.70a287bbfeccb56f58fad5ecc4dd663c.js": "/precache-manifest.70a287bbfeccb56f58fad5ecc4dd663c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.273f4381.chunk.css.map": "/static/css/main.273f4381.chunk.css.map",
-    "static/media/global.scss": "/static/media/Quicksand-Regular.5aadc9e3.woff",
-    "static/media/island_of_fog.jpg": "/static/media/island_of_fog.257cc49a.jpg"
+    "main.css": "/books-store-fe/static/css/main.fdd5403c.chunk.css",
+    "main.js": "/books-store-fe/static/js/main.4d9fe80b.chunk.js",
+    "main.js.map": "/books-store-fe/static/js/main.4d9fe80b.chunk.js.map",
+    "runtime-main.js": "/books-store-fe/static/js/runtime-main.4610a137.js",
+    "runtime-main.js.map": "/books-store-fe/static/js/runtime-main.4610a137.js.map",
+    "static/js/2.126c6769.chunk.js": "/books-store-fe/static/js/2.126c6769.chunk.js",
+    "static/js/2.126c6769.chunk.js.map": "/books-store-fe/static/js/2.126c6769.chunk.js.map",
+    "index.html": "/books-store-fe/index.html",
+    "precache-manifest.2175ba4093f21fcdb91f1caa01b82223.js": "/books-store-fe/precache-manifest.2175ba4093f21fcdb91f1caa01b82223.js",
+    "service-worker.js": "/books-store-fe/service-worker.js",
+    "static/css/main.fdd5403c.chunk.css.map": "/books-store-fe/static/css/main.fdd5403c.chunk.css.map",
+    "static/media/global.scss": "/books-store-fe/static/media/Quicksand-Regular.5aadc9e3.woff",
+    "static/media/island_of_fog.jpg": "/books-store-fe/static/media/island_of_fog.257cc49a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2daae05d.js",
-    "static/js/2.d79f6e39.chunk.js",
-    "static/css/main.273f4381.chunk.css",
-    "static/js/main.36935c7f.chunk.js"
+    "static/js/runtime-main.4610a137.js",
+    "static/js/2.126c6769.chunk.js",
+    "static/css/main.fdd5403c.chunk.css",
+    "static/js/main.4d9fe80b.chunk.js"
   ]
 }
