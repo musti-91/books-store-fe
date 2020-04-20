@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.577ae74caab8f11fc83e.bundle.js",
+    "main.css.map": "/main.css.map",
+    "main.js.map": "/main.577ae74caab8f11fc83e.bundle.js.map",
+    "runtime~main.js": "/runtime~main.577ae74caab8f11fc83e.bundle.js",
+    "runtime~main.js.map": "/runtime~main.577ae74caab8f11fc83e.bundle.js.map",
+    "vendors~main.css": "/vendors~main.css",
+    "vendors~main.js": "/vendors~main.577ae74caab8f11fc83e.bundle.js",
+    "vendors~main.css.map": "/vendors~main.css.map",
+    "vendors~main.js.map": "/vendors~main.577ae74caab8f11fc83e.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.ee50d0545ad07f7692e5d98356adac05.js": "/precache-manifest.ee50d0545ad07f7692e5d98356adac05.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/global.scss": "/static/media/Quicksand-Regular.5aadc9e3.woff",
+    "static/media/island_of_fog.jpg": "/static/media/island_of_fog.257cc49a.jpg"
+  },
+  "entrypoints": [
+    "runtime~main.577ae74caab8f11fc83e.bundle.js",
+    "vendors~main.css",
+    "vendors~main.577ae74caab8f11fc83e.bundle.js",
+    "main.css",
+    "main.577ae74caab8f11fc83e.bundle.js"
+  ]
+}
